@@ -14,7 +14,7 @@
 						-Dfile.encoding=UTF-8
 					</argLine>
 					<suiteXmlFiles>
-						<suiteXmlFile>${suite}.xml</suiteXmlFile>
+						<suiteXmlFile>testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 					<!-- <workingDirectory>target</workingDirectory> -->
 				</configuration>
